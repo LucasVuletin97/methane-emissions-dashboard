@@ -79,18 +79,18 @@ streamlit run Excercise3.py
 
 <h3>1. Emisiones de Metano vs. Año (Apilado por Segmento Industrial)</h3>
 <p>Este gráfico muestra las emisiones de metano a lo largo de los años, agrupado por segmento industrial, y permite filtrar por año y cuenca.</p>
-![Descripción del gráfico](Exercise1.png)
+<img src="Exercise1.png" alt="Emisiones de Metano vs. Año" width="500"/>
+
 
 
 <h3>2. Emisiones de Metano vs. Empresa (Apilado por Fuente de Emisión)</h3>
 <p>Muestra las emisiones de metano por empresa, apilado por la fuente de emisión. El gráfico permite filtrar por año y cuenca.</p>
-![Descripción del gráfico](Exercise2.png)
+<img src="Exercise2.png" alt="Emisiones de Metano vs. Empresa" width="500"/>
 
 
 <h3>3. Mapa de Calor de Emisiones por Estado</h3>
 <p>Un mapa interactivo de las emisiones de metano por estado, con la posibilidad de filtrar por año y fuente de emisión.</p>
-![Descripción del gráfico](Exercise3.png)
-
+<img src="Exercise3.png" alt="Mapa de Calor de Emisiones por Estado" width="500"/>
 
 </body>
 </html>
